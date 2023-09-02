@@ -27,7 +27,7 @@ In this repo, we are sharing some tips to create ATS friendly resume. So that it
 
 ---
 
-<img src="/assets/images/ats-tips.png" width="500" height="200">
+<img src="/assets/images/ats-tips.png" width="500" height="250">
 
 1) **Use Relevant Keywords**: For every job application, include the keyword used in the job description. This will help in getting a better ATS Score.
   
