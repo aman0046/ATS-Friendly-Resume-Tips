@@ -53,10 +53,7 @@ In this repo, we are sharing some tips to create ATS friendly resume. So that it
 
 ### Now check ATS Score of your resume
 
-- Jobscan -> Use any below link (All are same)
-
-- [LINK 1](https://www.jobscan.co?ref=2727596&utm_source=referral-program&utm_medium=referral&utm_campaign=10-scan-referral-program)
-- [LINK 2](https://www.jobscan.co?ref=2727374&utm_source=referral-program&utm_medium=referral&utm_campaign=10-scan-referral-program)
+- Jobscan -> [CLICK HERE](https://www.jobscan.co?ref=1514409&utm_source=referral-program&utm_medium=referral&utm_campaign=10-scan-referral-program)
 
 **Note**: 
 - You can check on any website, also don't need to purchase their premium plan. (Faltu mein waste of money hai)
