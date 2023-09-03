@@ -61,6 +61,16 @@ In this repo, we are sharing some tips to create ATS friendly resume. So that it
 
 ---
 
+### Review your resume by me
+
+Once you have completed with all the steps mentioned, there is no further need to do review of the resume. Its already best.
+But in case you want it to be reviewed, feel free to text me on Insta -> <a href="https://www.instagram.com/aman_chowdhury_046/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" align="center" height="25" alt="instagram logo"  />
+  </a>
+
+
+---
+
 ###
 
 #### Join us for all the latest offcampus job updates, webinar, hackathons, resume review and a lot more :heart::heart:
