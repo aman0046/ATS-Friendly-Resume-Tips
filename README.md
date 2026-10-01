@@ -57,6 +57,7 @@ In this repo, we are sharing some tips to create ATS friendly resume. So that it
 ### Now check ATS Score of your resume
 
 - Jobscan -> [CLICK HERE](https://www.jobscan.co?ref=1514409&utm_source=referral-program&utm_medium=referral&utm_campaign=10-scan-referral-program)
+- ResumeAI -> [CLICK HERE](https://withresumeai.com/) — free ATS checker (3/day anonymous, 10/day free account; State of ATS 2026 — Workday 37.9%)
 
 **Note**: 
 - You can check on any website, also don't need to purchase their premium plan. (Faltu mein waste of money hai)
